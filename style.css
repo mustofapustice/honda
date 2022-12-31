@@ -25,3 +25,15 @@ body{
 .featurebike{
     margin-bottom: 150px;
 }
+.heritage{
+    background-color:#212529;
+}
+.more{
+    background-color: #212529;
+   color: white;
+   border: 1.5px solid white;
+   margin-left: 50px;
+   margin-bottom: 20px;
+   padding:10px 40px 10px 40px;
+
+}
